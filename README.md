@@ -1,4 +1,4 @@
-# subBruter - Active Subdomain Enumeration Tool
+# :radioactive: subBruter - Active Subdomain Enumeration Tool :radioactive:
 
 [Tool Link](https://github.com/aashishsec/subBruter/)
 ---
